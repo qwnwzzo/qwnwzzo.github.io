@@ -1,14 +1,13 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "kris-blog",
+    "title": "Kris Blog",
+    "author": "Kris <xiaoxiaoljq@126.com>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "https://qwnwzzo.github.io/",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://qwnwzzo.github.io/"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
         "grunt": "^1.1.0",
         "grunt-banner": "~0.2.3",
